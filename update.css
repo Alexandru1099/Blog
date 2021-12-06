@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav h1{
+    position: relative;
+    text-align: center;
+    top: 1.5rem;
+}
+nav{
+    background-color: slateblue;
+    height: 10vh;
+    color: white;
+    
+}
+input{
+    border: 2px black solid;
+    margin: 0.5rem;
+    padding: 0.7rem;
+    border-radius: 10px;
+    text-align: center;
+    position: relative;
+    top: 30px;
+
+
+}
+.submit{
+    background-color: coral;
+    padding: 0.4rem;
+    margin: 0.3rem;
+    border: 2px solid black;
+    position: relative;
+    cursor: pointer;
+}
+form{
+    text-align: center;
+}

@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: url(./descărcare.jpeg);
+
+}
+.header{
+    width: 100%;
+    height: 10rem;
+    background-color: slateblue;
+    
+}
+.nav{
+    position: relative;
+    top: 2rem;
+    padding: 2rem;
+    color: white;
+    text-align: center;
+}
+.container{
+    width: 80rem;
+    height: 80rem;
+}
+.container img{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+
+}
+.login{
+    text-align: center;
+    margin-top: 10rem;
+
+}
+.login h1{
+    background-color: white;
+    color: green;
+}
+.login input{
+    font-size: 1.5rem;
+    border-radius: 10px;
+    border: 3px solid;
+    border-color: green;
+}
+.changePassword button{
+    cursor: pointer;
+    position: relative;
+    float: right;
+    top: 15rem;
+    border-radius: 50%;
+    margin: 10 px;
+    padding: 15px;
+    background-color: seagreen;
+    color: white;
+}
+
+
+
+ 
